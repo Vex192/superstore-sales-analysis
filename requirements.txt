@@ -1,0 +1,38 @@
+# ==========================================
+# SUPERSTORE SALES ANALYSIS - DEPENDENCIES
+# ==========================================
+
+# DATA ANALYSIS AND MANIPULATION
+pandas              # Data cleaning, processing, grouping and analysis
+numpy               # Numerical calculations and array operations
+
+# DATA VISUALIZATION
+matplotlib           # Creating charts, graphs and dashboards
+seaborn              # Statistical visualizations and correlation heatmaps
+
+# JUPYTER NOTEBOOK SUPPORT
+jupyter              # Running and managing Jupyter notebooks
+ipykernel            # Python kernel for VS Code and Jupyter
+
+# ENVIRONMENT VARIABLES
+python-dotenv        # Loading environment variables from .env files
+
+# DATABASE SUPPORT
+# sqlite3 is included in Python's standard library.
+# No separate pip installation is required.
+
+# ==========================================
+# VISUAL STUDIO CODE EXTENSIONS
+# ==========================================
+# These are VS Code extension IDs, not pip packages.
+# Install them through the VS Code Extensions panel.
+
+# Python: ms-python.python
+# Jupyter: ms-toolsai.jupyter
+# SQLite: alexcvzz.vscode-sqlite
+
+# ==========================================
+# ENVIRONMENT FILE
+# ==========================================
+# .env stores local environment variables.
+# Keep API keys and secrets out of GitHub.
